@@ -1,0 +1,12 @@
+.hero-section {
+  background: url("https://images.unsplash.com/photo-1521791055366-0d553872125f") no-repeat center center/cover;
+  height: 90vh;
+}
+
+.hero-section h1 {
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.6);
+}
+
+.hero-section p {
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
